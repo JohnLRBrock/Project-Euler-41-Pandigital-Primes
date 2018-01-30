@@ -1,0 +1,1 @@
+Pandigital Number Generator left to be implemented.
